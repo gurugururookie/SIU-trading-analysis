@@ -1,2 +1,2 @@
-# SIU-market-analysis
-This repository is for archiving my activites in the market analysis department, SIU
+# SIU-analysis
+This repository is for archiving my activites in SIU, the trading group of SKKU
