@@ -1,3 +1,5 @@
+index.md → docs/index.md
+
 # 오늘의 투자 알리미
 
 ## 📅 2025-04-11
